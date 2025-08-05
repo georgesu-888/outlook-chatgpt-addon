@@ -1,0 +1,5 @@
+<!-- Change this -->
+<SourceLocation DefaultValue="https://your-domain.com/index.html"/>
+
+<!-- To this (GitHub Pages example) -->
+<SourceLocation DefaultValue="https://yourusername.github.io/outlook-chatgpt-addon/index.html"/>
